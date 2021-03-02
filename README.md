@@ -47,7 +47,7 @@ or any version greater than or equal to 3.4, this script has been tested and con
 - Unlimited (with abuse protection) and super-fast bombing with multithreading
 - Possibility of international API support in future updates of this script
 - Flexible with addition of newer APIs with the help of api.py file
-- Actively supported by the developers with frequent updates and bug-fixes
+- Actively supports Indian mobile numbers and will get updates and bug-fixes
 - Made for free and open-source usage, in case of any query feel free to contact
 
 ## Usage:

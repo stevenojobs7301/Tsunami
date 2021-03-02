@@ -26,7 +26,7 @@ responsible for any misuse or damage caused by Tsunami.**
 - The application requires active internet connection to contact the APIs
 - You would not be charged for any SMS/calls dispatched as a consequence of this script
 - For best performance, use single thread in your Linux terminal
-- Always ensure that you are using the latest version of Tsunami and have Python 3
+- Always ensure that you are using the latest version of Tsunami and have Python3
 - This application must not be used to cause harm/discomfort/trouble to others
 - By using this, you agree that you cannot hold the developer responsible for any misuse
 
@@ -43,14 +43,12 @@ or any version greater than or equal to 3.4, this script has been tested and con
 
 ## Features
 
-- Over 20 integrated messaging and calling APIs included with JSON
+- Over 20 integrated messaging and calling APIs included within api.py
 - Unlimited (with abuse protection) and super-fast bombing with multithreading
 - Possibility of international API support in future updates of this script
-- Flexible with addition of newer APIs with the help of JSON documents
+- Flexible with addition of newer APIs with the help of api.py file
 - Actively supported by the developers with frequent updates and bug-fixes
-- Intuitive auto-update feature and notification fetch feature included
-- Recently made free and open-source for community contributions
-- Modular codebase and snippets can be easily embedded in other program
+- Made for free and open-source usage, in case of any query feel free to contact
 
 ## Usage:
 

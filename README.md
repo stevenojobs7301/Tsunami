@@ -9,7 +9,7 @@
 </h1>
 
 
-<p align="center">A simple open-source OTP and Call flooding script for Linux based terminal written using Python3</p>
+<p align="center">A simple open-source OTP and Call flooding script<br>for Linux based terminal written using Python3</p><br>
 
 ## Note:
 📝 [Script Usage Guide](https://github.com/utsanjan/Tsunami#usage)

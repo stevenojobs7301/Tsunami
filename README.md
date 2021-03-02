@@ -10,7 +10,7 @@
 </h1>
 
 
-<p align="center">A simple open source OTP and Call flooding Script for Linux based Terminals written using Python3</p>
+<p align="center">A simple open-source OTP and Call flooding script for Linux based terminal written using Python3</p>
 
 ## Note:
 

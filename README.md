@@ -1,4 +1,3 @@
-# Tsunami
 <h1 align="center">
   <br>
   <a href="https://github.com/utsanjan/Tsunami">

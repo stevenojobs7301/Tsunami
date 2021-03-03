@@ -12,7 +12,7 @@
 <p align="center">A simple open-source OTP and Call flooding script<br>for Linux based terminal written using Python3</p><br>
 
 ## Note:
-📝 [Script Usage Guide](https://github.com/utsanjan/Tsunami#usage)
+⚙ [Script Usage Guide](https://github.com/utsanjan/Tsunami#usage)
 
 > ## DISCLAIMER:
 > **Developer will not be liable and will not become

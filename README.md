@@ -11,7 +11,7 @@
 
 <p align="center">A simple open-source OTP and Call flooding script<br>for Linux based terminal written using Python3</p>
 
-## Note:
+## Notes:
 ⚙ [Script Usage Guide](https://github.com/utsanjan/Tsunami#usage)
 
 > ## DISCLAIMER:
@@ -49,7 +49,7 @@ or any version greater than or equal to 3.4, this script has been tested and con
 - Actively supports Indian mobile numbers and will get updates and bug-fixes
 - Made for free and open-source usage, in case of any query feel free to contact
 
-## Usage:
+## Usage Guide
 
 ```
 apt install python3 curl git -y
@@ -63,7 +63,7 @@ python3 Tsunami.py -m Number_of_messages -t victim's_ten_digit_mobile_no
 ```
 python3 Tsunami.py -m 1000 -t 9876543210
 ```
-## Screenshots
+## Screenshot
 <a href="https://1.bp.blogspot.com/-Uyd4gfFDm_4/YEDJABmxjRI/AAAAAAAAbdg/3Uwn46de_xAClieZSkD-dvKWEe4CXt3cwCLcBGAsYHQ/s0/Tsunami.png"><img alt="Screenshots" title="Screenshots" src="https://1.bp.blogspot.com/-k7yXi8aHCq4/YEDIEZMEtCI/AAAAAAAAbdY/4zCVxiYv-aAF7FSVyGhnvDa5xQp5IDihgCLcBGAsYHQ/w400-h297/Tsunami.png"/></a>
 
 ## Contact me  
